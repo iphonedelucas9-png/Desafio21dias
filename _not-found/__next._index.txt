@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[8784,[],""]
+3:I[4374,[],""]
+:HL["/Desafio21dias/_next/static/css/b86b764b626f0b8c.css","style"]
+:HL["/Desafio21dias/_next/static/css/481caa2b378ca7d2.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/Desafio21dias/_next/static/css/b86b764b626f0b8c.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/Desafio21dias/_next/static/css/481caa2b378ca7d2.css","precedence":"next"}]],["$","html",null,{"lang":"es","children":["$","body",null,{"className":"antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4vJsJ9-8Vn5_lUEYqpH4D"}

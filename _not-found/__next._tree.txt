@@ -1,0 +1,3 @@
+:HL["/Desafio21dias/_next/static/css/b86b764b626f0b8c.css","style"]
+:HL["/Desafio21dias/_next/static/css/481caa2b378ca7d2.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"4vJsJ9-8Vn5_lUEYqpH4D"}
